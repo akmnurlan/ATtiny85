@@ -1,4 +1,4 @@
-# ATtiny85
+# ATTINY85 Digispark kickstarter miniature for Arduino usb development
 
 Download Arduino IDE.
 
