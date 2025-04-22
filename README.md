@@ -11,3 +11,7 @@ File > Preferences > Additional boards manager URLs:
 https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json,https://raw.githubusercontent.com/digistump/arduino-boards-index/refs/heads/master/package_digistump_index.json
 
 However It still says unrecognized USB device in Device Manager, my ATtiny85 works well, and I can upload codes inside it.
+
+Then choose this :
+
+![image](https://github.com/user-attachments/assets/3a3d46d9-e407-4ad5-a894-8504b61e599b)
