@@ -15,3 +15,7 @@ However It still says unrecognized USB device in Device Manager, my ATtiny85 wor
 Then choose this :
 
 ![image](https://github.com/user-attachments/assets/3a3d46d9-e407-4ad5-a894-8504b61e599b)
+
+If you see it doesn't work , try this :
+
+![image](https://github.com/user-attachments/assets/8b227d53-491c-4172-bca6-956746aef127)
